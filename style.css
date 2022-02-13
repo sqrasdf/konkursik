@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+}
+svg
+{
+    background-color: grey;
+}
+
+#svg
+{
+    height: 700px;
+    width: 1600px;
+}
+
+#console
+{
+    color: white;
+}
